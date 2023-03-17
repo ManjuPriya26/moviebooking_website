@@ -1,0 +1,73 @@
+{ "movies": [{
+     "id": 99,
+    "name": "Documentary",
+    "homepage": "",
+    "original_language": "en",
+    "original_title": "Deadpool: From Comics to Screen... to Screen",
+    "overview": "This documentary divided into five segments examines the source and its path to the movies, backstory, special effects story/character areas, cast and performances. It includes notes from Reynolds, Liefeld, Miller, Wernick, Reese, executive producers Aditya Sood and Stan Lee, co-creator/comics writer Fabian Nicieza, producer Simon Kinberg, comics writer Joe Kelly, specialty costume designer Russell Shinkle, makeup designer Bill Corso, production designer Sean Haworth, director of photography Ken Seng, executive producer/unit production manager John J. Kelly, previs supervisor Franck Balson, stunt coordinator Philip J. Silvera, visual effects supervisors Pauline Duvall and Jonathan Rothbart, visual effects producer Annemarie Griggs, 2nd unit director/stunt coordinator Robert Alonzo, special effects coordinator Alex Burdett, utility stunts Regis Harrington, composer Tom Holkenberg, and actors Morena Baccarin, TJ Miller, Brianna Hildebrand, Leslie Uggams, Ed Skrein, and Gina Carano.",
+    "popularity": 0,
+    "poster_path": "images/deadpool.jpg",
+    "release_date": "2016-05-10",
+    "runtime": 80,
+    "status": "Released",
+    "title": "Deadpool"
+},{
+    "id": 100,
+   "name": "Action",
+   "homepage": "",
+   "original_language": "en",
+   "original_title": "Avatar:The way of water",
+   "overview": "Set more than a decade after the events of the first film, “Avatar The Way of Water” begins to tell the story of the Sully family (Jake, Neytiri and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive and the tragedies they endure.",
+   "popularity": 8,
+   "poster_path": "images/avatar.jpg",
+   "release_date": "2023-02-10",
+   "runtime": 180,
+   "status": "Released",
+   "title": "Avatar"
+},
+{
+    "id": 101,
+   "name": "Family",
+   "homepage": "",
+   "original_language": "en",
+   "original_title": "Puss in Boots: The Last Wish",
+   "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: he has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+   "popularity": 7,
+   "poster_path": "images/puss.jpg",
+   "release_date": "2023-01-15",
+   "runtime": 100,
+   "status": "Released",
+   "title": "Puss in Boots"
+},
+{
+    "id": 102,
+   "name": "Fantasy",
+   "homepage": "",
+   "original_language": "en",
+   "original_title": "Aladdin",
+   "overview": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+   "popularity": 7,
+   "poster_path": "images/aladdin.jpg",
+   "release_date": "2023-02-10",
+   "runtime": 80,
+   "status": "Released",
+   "title": "Aladdin"
+},
+{
+    "id": 103,
+   "name": "Fantasy",
+   "homepage": "",
+   "original_language": "en",
+   "original_title": "Ant-Man and the Wasp: Quantumania",
+   "overview": "Super-Hero partners Scott Lang (Paul Rudd) and Hope van Dyne (Evangeline Lilly) return to continue their adventures as Ant-Man and the Wasp. Together, with Hope’s parents Janet van Dyne (Michelle Pfeiffer) and Hank Pym (Michael Douglas), and Scott’s daughter Cassie Lang (Kathryn Newton), the family finds themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible. ",
+   "popularity": 0,
+   "poster_path": "images/antman.jpg",
+   "release_date": "2023-05-20",
+   "runtime": 80,
+   "status": "Upcoming",
+   "title": "Ant-Man"
+}
+
+
+
+]}
